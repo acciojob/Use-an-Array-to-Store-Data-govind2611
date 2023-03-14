@@ -1,2 +1,2 @@
-
-var yourArray=["Govind", 26, true];
+let simpleArray = ['one', 2, 'three', true, false, undefined, null];
+console.log(simpleArray);
