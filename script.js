@@ -1,2 +1,2 @@
-let simpleArray = ['one', 2, 'three', true, false, undefined, null];
-console.log(simpleArray);
+
+let yourArray=["Govind", 26, true, 01, "Gopu"];
