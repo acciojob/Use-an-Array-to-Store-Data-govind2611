@@ -1,2 +1,2 @@
 
-let yourArray=["Govind", 26, true, 01, "Gopu"];
+let yourArray=["Govind", 26, true, undefined, undefined];
