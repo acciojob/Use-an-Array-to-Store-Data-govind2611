@@ -1,3 +1,2 @@
-
-let yourArray=["Govind", 26, true, undefined, undefined];
-console.log(yourArray);
+let simpleArray = ['one', 2, 'three', true, false, undefined, null];
+console.log(simpleArray.length);
