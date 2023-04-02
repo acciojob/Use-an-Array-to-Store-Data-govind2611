@@ -1,2 +1,3 @@
-let yourArray = ['string', 123, true, null, undefined];
+
+var yourArray=["hima",23,true,"lakshmi", 29];
 console.log(yourArray.length);
