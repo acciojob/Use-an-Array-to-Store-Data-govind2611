@@ -1,3 +1,4 @@
-
-var yourArray=["hima",23,true,"lakshmi", 29];
-console.log(yourArray.length);
+const app = require("./index.js");
+app.listen(3000, () => {
+  console.log('server started');
+});
