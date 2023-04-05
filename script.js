@@ -1,4 +1,1 @@
-const app = require("./index.js");
-app.listen(3000, () => {
-  console.log('server started');
-});
+let yourArray = ["string", 1, false, true, 23];
